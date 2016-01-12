@@ -1,0 +1,65 @@
+.display{
+	display: none;
+}
+
+h1{
+	font-size: 30px;
+	font-family: sans-serif;
+	width: 100%;
+	text-align: center;
+	color: #fff;
+	padding-top: 10%;
+}
+
+*{
+	font-family: sans-serif;
+}
+body{
+	background: #2c3e50;
+}
+
+form{
+	width: 20%;
+	margin: 0 auto;
+	padding-top: 40px;
+
+}
+
+form input{
+	display: block;
+	width: 100%;
+	height: 20px;
+	margin-top: 10px;
+	color: black;
+}
+
+
+
+form label{
+	text-align: center;
+	color: #fff;
+}
+
+a{
+	position: absolute;
+	padding: 10px;
+	width: 16%;
+	color: #000;
+	text-decoration: none;
+	background: #fff;
+	border: 1px solid black;
+}
+
+.submit_button{
+	display: block;
+	border: none;
+	height: 25px;
+	cursor: pointer;
+	color: black;
+	background: #fff;
+}
+
+
+p{
+	color: red;
+}
